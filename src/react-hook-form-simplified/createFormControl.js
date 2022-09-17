@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import {
   get,
   set,

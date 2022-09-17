@@ -1,5 +1,5 @@
 export default (formState, _proxyFormState, localProxyFormState) => {
-  const result = {} as typeof formState;
+  const result = {};
   for (const key in formState) {
     Object.defineProperty(result, key, {
       get: () => {

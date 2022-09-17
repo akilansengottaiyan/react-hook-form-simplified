@@ -1,4 +1,16 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+.App form {
+  display: flex;
+  gap : 30px;
+}
+.App .actions {
+  display: flex;
+  gap : 30px;
 }

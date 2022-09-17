@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import React from "react";
 import { createFormControl } from "./createFormControl";
 import { useSubscribe } from "./useSubscribe";

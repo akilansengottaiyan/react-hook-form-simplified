@@ -14,7 +14,11 @@ This code is the simplified version of the [``react-hook-form@7.34.2``](https://
  - Validation logics are skipped for simplicity. Hence ``formstate`` won't contain the below fields.
     - ``isValid``
     - ``isValidating``
-    - ``errors``
+    - ``errors`` 
+ - Do not have implementations for 
+    - useFieldArray
+    - useController
+    - useFormState 
 
 <br/>
 
