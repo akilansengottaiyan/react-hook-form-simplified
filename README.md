@@ -1,5 +1,5 @@
 
-This code is the simplified version of the [``react-hook-form@7.34.2``](https://github.com/react-hook-form/react-hook-form). The code is intended only for the demonstration purposes.
+This code is the simplified version of [``react-hook-form@7.34.2``](https://github.com/react-hook-form/react-hook-form). The code is intended only for the demonstration purposes.
 
 [react-hook-form-simplified in CodeSandbox](https://codesandbox.io/p/github/akilansengottaiyan/react-hook-form-simplified/git/master?file=%2Fsrc%2FApp.js&selection=%5B%7B%22endColumn%22%3A10%2C%22endLineNumber%22%3A9%2C%22startColumn%22%3A10%2C%22startLineNumber%22%3A9%7D%5D)
 
